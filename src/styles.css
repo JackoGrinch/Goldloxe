@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans+Narrow&display=swap");
+.App {
+  font-family: "PT Sans Narrow", sans-serif;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1em;
+  margin: auto;
+  padding: 10px;
+}
+.smallCenter {
+  width: 250px;
+  text-align: center;
+  margin: auto;
+}
+.NewsletterSection {
+  padding: 0px 0px 50px 0px;
+  background-image: url("https://i0.wp.com/worleygig.com/wp-content/uploads/2022/06/IMG_9980-e1661714039619.jpeg?ssl=1");
+  background-attachment: fixed;
+  background-position: center -700px;
+}
+.goldloxeBio {
+  background-image: url("https://png.pngtree.com/png-clipart/20210309/original/pngtree-notepad-note-blank-paper-document-office-png-image_5809863.jpg");
+  background-size: 100%;
+  background-repeat: none;
+  background-position: fixed;
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  font-size: 0.7em;
+  height: 250px;
+  width: 250px;
+}
+
+.bioText {
+  margin-left: 70px;
+  margin-top: 45px;
+  width: 120px;
+}
+
+.ArtistCollabSection {
+  /* height: 250px; */
+}
+
+.collabTitle {
+  margin: 30px 0 20px;
+}
+.ArtistCollabApplySection {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0WKr8YOfHJeE3eQ70VeWx2vFoCbMOcGjCg&usqp=CAU");
+  background-attachment: fixed;
+  background-size: 500px;
+  background-position: center 50px;
+  color: white;
+  padding: 50px 0 50px 0;
+}
+
+.goldloxeIcon {
+  width: 200px;
+  margin: 0;
+}

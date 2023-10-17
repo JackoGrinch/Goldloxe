@@ -1,0 +1,23 @@
+.ArtistCollabSignUp {
+  text-align: center;
+  margin: 0;
+}
+
+.input {
+  margin-bottom: 5px;
+}
+
+h3 {
+  width: 200px;
+  margin: auto;
+  color: white;
+  mix-blend-mode: difference;
+}
+
+.submitArtistCollabButton {
+  margin: auto;
+  margin-top: 15px;
+  width: 200px;
+  background-color: black;
+  color: white;
+}

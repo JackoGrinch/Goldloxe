@@ -1,0 +1,18 @@
+.ArtistTile {
+  margin: 10px;
+  height: 200px;
+  width: 150px;
+  background-color: black;
+}
+
+.container {
+}
+.cardBackground {
+  margin: 10px;
+}
+.artistCard {
+  border: 0px;
+  margin: auto;
+  max-width: 200px;
+  min-width: 114px;
+}
